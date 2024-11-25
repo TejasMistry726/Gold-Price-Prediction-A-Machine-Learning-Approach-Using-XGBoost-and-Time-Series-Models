@@ -52,5 +52,5 @@ This project uses a combination of statistical and machine learning techniques t
 ### **Setup Instructions**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Gold_Price_Prediction.git
+   git clone https://github.com/TejasMistry726/Gold_Price_Prediction.git
    cd Gold_Price_Prediction
